@@ -8,3 +8,4 @@
 | [498](https://leetcode.com/problems/diagonal-traverse/)                                | Medium     | Diagonal Traverse                       | faster than 97.04% 🔁 |
 | [54](https://leetcode.com/problems/spiral-matrix/)                                     | Medium     | Spiral Matrix                           | 🔁                    |
 | [118](https://leetcode.com/problems/pascals-triangle/)                                 | Easy       | Pascal's Triangle                       |                      |
+| [67](https://leetcode.com/problems/add-binary/)                                        | Easy       | Add Binary                              |                      |
