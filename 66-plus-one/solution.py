@@ -1,3 +1,9 @@
+'''
+Time: O(digits)
+Space: O(constant) // not including input digits
+'''
+
+
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         carry = 1

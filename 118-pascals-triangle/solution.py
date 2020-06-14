@@ -1,3 +1,9 @@
+'''
+Time: O(numRows^2)
+Space: O(numRows^2)
+'''
+
+
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         result = []

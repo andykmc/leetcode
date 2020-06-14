@@ -1,3 +1,9 @@
+'''
+Time: O(nums)
+Space: O(1)
+'''
+
+
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         left = 0

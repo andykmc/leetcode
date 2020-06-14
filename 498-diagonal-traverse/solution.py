@@ -1,3 +1,9 @@
+'''
+Time: O(matrix)
+Space: O(matrix)
+'''
+
+
 class Solution:
     def findDiagonalOrder(self, matrix: List[List[int]]) -> List[int]:
         result = []

@@ -1,3 +1,9 @@
+'''
+Time: O(m * n), m: matrix height, n: matrix width
+Space: O(matrix + result) = O(2 * matrix) = O(matrix)
+'''
+
+
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         if len(matrix) == 0 or len(matrix[0]) == 0:
