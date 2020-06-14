@@ -1,5 +1,5 @@
 '''
-Time: O(A + B, max(A, B))
+Time: O(max(A, B))
 Space: O(A + B)
 '''
 
