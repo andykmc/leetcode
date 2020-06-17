@@ -9,3 +9,5 @@
 | [54](https://leetcode.com/problems/spiral-matrix/)                                     | Medium     | Spiral Matrix                           | 🔁                    |
 | [118](https://leetcode.com/problems/pascals-triangle/)                                 | Easy       | Pascal's Triangle                       |                      |
 | [67](https://leetcode.com/problems/add-binary/)                                        | Easy       | Add Binary                              |                      |
+| [14](https://leetcode.com/problems/longest-common-prefix/)                             | Easy       | Longest Common Prefix                   |                      |
+| [28](https://leetcode.com/problems/implement-strstr/)                                  | Easy       | Implement strStr()                      |                      |
