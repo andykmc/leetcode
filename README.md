@@ -12,3 +12,4 @@
 | [14](https://leetcode.com/problems/longest-common-prefix/)                             | Easy       | Longest Common Prefix                   |                      |
 | [28](https://leetcode.com/problems/implement-strstr/)                                  | Easy       | Implement strStr()                      |                      |
 | [561](https://leetcode.com/problems/array-partition-i/)                                | Easy       | Array Partition I                       |                      |
+| [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                 | Easy       | Two Sum II - Input array is sorted I    |                      |
