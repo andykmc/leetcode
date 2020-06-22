@@ -1,6 +1,6 @@
 '''
-Time: O(numbers)
-Space: O(constant)
+Time: O(n), n: numbers
+Space: O(1): constant
 '''
 
 

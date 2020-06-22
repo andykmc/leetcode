@@ -1,6 +1,6 @@
 '''
 Time: O(nlog(n))
-Space: O(constant)
+Space: O(1): constant
 '''
 
 

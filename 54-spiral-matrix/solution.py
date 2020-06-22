@@ -1,6 +1,6 @@
 '''
 Time: O(m * n), m: matrix height, n: matrix width
-Space: O(matrix + result) = O(2 * matrix) = O(matrix)
+Space: O(m * n), m: matrix height, n: matrix width
 '''
 
 

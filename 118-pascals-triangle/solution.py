@@ -1,6 +1,6 @@
 '''
-Time: O(numRows^2)
-Space: O(numRows^2)
+Time: O(n^2), n: numRows
+Space: O(n^2), n: numRows
 '''
 
 

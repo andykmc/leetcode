@@ -1,6 +1,6 @@
 '''
-Time: O(digits)
-Space: O(constant) // not including input digits
+Time: O(n), n: size of digits
+Space: O(1): constant // not including input digits
 '''
 
 

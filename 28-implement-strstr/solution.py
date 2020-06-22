@@ -1,6 +1,6 @@
 '''
-Time: O(haystak)
-Space: O(constant)
+Time: O(n), n: haystak
+Space: O(1): constant
 '''
 
 

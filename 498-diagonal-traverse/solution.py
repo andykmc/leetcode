@@ -1,6 +1,6 @@
 '''
-Time: O(matrix)
-Space: O(matrix)
+Time: O(m * n), m: matrix height, n: matrix width
+Space: O(m * n), m: matrix height, n: matrix width
 '''
 
 

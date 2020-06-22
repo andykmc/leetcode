@@ -1,5 +1,5 @@
 '''
-Time: O(nums)
+Time: O(n), n: size of digits
 Space: O(1)
 '''
 

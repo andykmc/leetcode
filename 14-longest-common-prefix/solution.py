@@ -1,6 +1,6 @@
 '''
 Time: O(min(strs))
-Space: O(constant)
+Space: O(1): constant
 '''
 
 
