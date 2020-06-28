@@ -16,3 +16,4 @@
 | [27](https://leetcode.com/problems/remove-element/)                                    | Easy       | Remove Element                          | Note that order is not needed to be preserved |
 | [485](https://leetcode.com/problems/max-consecutive-ones/)                             | Easy       | Max Consecutive Ones                    | faster than 94.94%                            |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum/)                        | Medium     | Minimum Size Subarray Sum               |                                               |
+| [189](https://leetcode.com/problems/rotate-array/)                                     | Easy       | Rotate Array                            |                                               |
