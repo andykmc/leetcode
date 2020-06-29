@@ -17,3 +17,4 @@
 | [485](https://leetcode.com/problems/max-consecutive-ones/)                             | Easy       | Max Consecutive Ones                    | faster than 94.94%                            |
 | [209](https://leetcode.com/problems/minimum-size-subarray-sum/)                        | Medium     | Minimum Size Subarray Sum               |                                               |
 | [189](https://leetcode.com/problems/rotate-array/)                                     | Easy       | Rotate Array                            |                                               |
+| [119](https://leetcode.com/problems/pascals-triangle-ii/)                              | Easy       | Pascal's Triangle II                    |                                               |
