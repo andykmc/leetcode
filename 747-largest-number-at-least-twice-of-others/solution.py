@@ -1,3 +1,9 @@
+'''
+Space: O(1)
+Time: O(n)
+'''
+
+
 class Solution:
     def dominantIndex(self, nums: List[int]) -> int:
         largest = 0
