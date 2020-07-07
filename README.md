@@ -24,3 +24,4 @@
 | [283](https://leetcode.com/problems/move-zeroes/)                                      | Easy       | Move Zeros                              | Faster than 98.25%                            |
 | [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)         | Easy       | Move Zeros                              |                                               |
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/)                        | Easy       | Move Zeros                              |                                               |
+| [1089](https://leetcode.com/problems/duplicate-zeros/)                                 | Easy       | Duplicate Zeros                         |                                               |
