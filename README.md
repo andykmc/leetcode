@@ -22,6 +22,7 @@
 | [557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                    | Easy       | Reverse Words in a String III           |                                               |
 | [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)               | Easy       | Remove Duplicates from Sorted Array     |                                               |
 | [283](https://leetcode.com/problems/move-zeroes/)                                      | Easy       | Move Zeros                              | Faster than 98.25%                            |
-| [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)         | Easy       | Move Zeros                              |                                               |
-| [977](https://leetcode.com/problems/squares-of-a-sorted-array/)                        | Easy       | Move Zeros                              |                                               |
+| [1295](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)         | Easy       | Find Numbers with Even Number of Digits |                                               |
+| [977](https://leetcode.com/problems/squares-of-a-sorted-array/)                        | Easy       | Squares of a Sorted Array               |                                               |
 | [1089](https://leetcode.com/problems/duplicate-zeros/)                                 | Easy       | Duplicate Zeros                         |                                               |
+| [88](https://leetcode.com/problems/merge-sorted-array/)                                | Easy       | Merge Sorted Array                      |                                               |
