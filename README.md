@@ -27,3 +27,4 @@
 | [1089](https://leetcode.com/problems/duplicate-zeros/)                                 | Easy       | Duplicate Zeros                         |                                               |
 | [88](https://leetcode.com/problems/merge-sorted-array/)                                | Easy       | Merge Sorted Array                      |                                               |
 | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/)                 | Easy       | Check If N and Its Double Exist         | Faster than 98.40%                            |
+| [941](https://leetcode.com/problems/valid-mountain-array/)                             | Easy       | Valid Mountain Array                    |                                               |
