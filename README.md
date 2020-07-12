@@ -26,3 +26,4 @@
 | [977](https://leetcode.com/problems/squares-of-a-sorted-array/)                        | Easy       | Squares of a Sorted Array               |                                               |
 | [1089](https://leetcode.com/problems/duplicate-zeros/)                                 | Easy       | Duplicate Zeros                         |                                               |
 | [88](https://leetcode.com/problems/merge-sorted-array/)                                | Easy       | Merge Sorted Array                      |                                               |
+| [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/)                 | Easy       | Check If N and Its Double Exist         | Faster than 98.40%                            |
