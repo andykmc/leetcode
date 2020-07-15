@@ -30,3 +30,4 @@
 | [941](https://leetcode.com/problems/valid-mountain-array/)                                  | Easy       | Valid Mountain Array                                 |                                               |
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy       | Replace Elements with Greatest Element on Right Side |                                               |
 | [905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Easy       | Sort Array By Parity                                 |                                               |
+| [1051](https://leetcode.com/problems/height-checker/)                                       | Easy       | Height Checker                                       |                                               |
