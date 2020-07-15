@@ -29,3 +29,4 @@
 | [1346](https://leetcode.com/problems/check-if-n-and-its-double-exist/)                      | Easy       | Check If N and Its Double Exist                      | Faster than 98.40%                            |
 | [941](https://leetcode.com/problems/valid-mountain-array/)                                  | Easy       | Valid Mountain Array                                 |                                               |
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy       | Replace Elements with Greatest Element on Right Side |                                               |
+| [905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Easy       | Sort Array By Parity                                 |                                               |
