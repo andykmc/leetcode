@@ -31,3 +31,4 @@
 | [1299](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy       | Replace Elements with Greatest Element on Right Side |                                               |
 | [905](https://leetcode.com/problems/sort-array-by-parity/)                                  | Easy       | Sort Array By Parity                                 |                                               |
 | [1051](https://leetcode.com/problems/height-checker/)                                       | Easy       | Height Checker                                       |                                               |
+| [414](https://leetcode.com/problems/third-maximum-number/)                                  | Easy       | Third Maximum Number                                 |                                               |
