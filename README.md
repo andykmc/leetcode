@@ -33,3 +33,4 @@
 | [1051](https://leetcode.com/problems/height-checker/)                                       | Easy       | Height Checker                                       |                                               |
 | [414](https://leetcode.com/problems/third-maximum-number/)                                  | Easy       | Third Maximum Number                                 |                                               |
 | [448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)              | Easy       | Find All Numbers Disappeared in an Array             |                                               |
+| [707](https://leetcode.com/problems/design-linked-list/)                                    | Medium     | Design Linked List                                   |                                               |
