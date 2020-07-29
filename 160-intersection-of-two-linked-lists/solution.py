@@ -17,31 +17,44 @@ class Solution:
 
         pA = headA
         pB = headB
-        while pA is not None and pB is not None:
-            if pA is pB:
-                return pA
-            pA = pA.next
-            pB = pB.next
-        if pA is None:
-            pA = headB
-        else:
-            pB = headA
-        while pA is not None and pB is not None:
-            if pA is pB:
-                return pA
-            pA = pA.next
-            pB = pB.next
-        if pA is None:
-            pA = headB
-        else:
-            pB = headA
-        while pA is not None and pB is not None:
-            if pA is pB:
-                return pA
-            pA = pA.next
-            pB = pB.next
 
-        if pA is pB:
-            return pA
-        else:
-            return None
+        while pA is not pB:
+            if pA is pB:
+                return pA
+            elif pA is None:
+                pA = headB
+            elif pB is None:
+                pB = headA
+            else:
+                pA = pA.next
+                pB = pB.next
+        return pA
+
+        # while pA is not None and pB is not None:
+        #     if pA is pB:
+        #         return pA
+        #     pA = pA.next
+        #     pB = pB.next
+        # if pA is None:
+        #     pA = headB
+        # else:
+        #     pB = headA
+        # while pA is not None and pB is not None:
+        #     if pA is pB:
+        #         return pA
+        #     pA = pA.next
+        #     pB = pB.next
+        # if pA is None:
+        #     pA = headB
+        # else:
+        #     pB = headA
+        # while pA is not None and pB is not None:
+        #     if pA is pB:
+        #         return pA
+        #     pA = pA.next
+        #     pB = pB.next
+
+        # if pA is pB:
+        #     return pA
+        # else:
+        #     return None
