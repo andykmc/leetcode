@@ -36,3 +36,4 @@
 | [707](https://leetcode.com/problems/design-linked-list/)                                    | Medium     | Design Linked List                                   |                                                                 |
 | [141](https://leetcode.com/problems/linked-list-cycle/)                                     | Easy       | Linked List Cycle                                    |                                                                 |
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/)                                  | Medium     | Linked List Cycle II                                 | Tricky when determinining the starting node in the second check |
+| [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)                      | Easy       | Intersection of Two Linked Lists                     | 🔁                                                               |
