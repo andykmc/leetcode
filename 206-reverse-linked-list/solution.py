@@ -11,13 +11,25 @@ Time: O(n)
 #         self.next = next
 class Solution:
     def reverseList(self, head: ListNode) -> ListNode:
-        if not head:
-            return head
-
+        prev = None
         curr = head
-        while curr.next:
+
+        while curr:
             temp = curr.next
-            curr.next = curr.next.next
-            temp.next = head
-            head = temp
-        return head
+            curr.next = prev
+            prev = curr
+            curr = temp
+        return prev
+
+# class Solution:
+#     def reverseList(self, head: ListNode) -> ListNode:
+#         if not head:
+#             return head
+
+#         curr = head
+#         while curr.next:
+#             temp = curr.next
+#             curr.next = curr.next.next
+#             temp.next = head
+#             head = temp
+#         return head
