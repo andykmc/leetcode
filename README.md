@@ -38,3 +38,4 @@
 | [142](https://leetcode.com/problems/linked-list-cycle-ii/)                                  | Medium     | Linked List Cycle II                                 | Tricky when determinining the starting node in the second check |
 | [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)                      | Easy       | Intersection of Two Linked Lists                     | 🔁                                                               |
 | [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                       | Medium     | Easy, if you think of 2-pointers                     |                                                                 |
+| [206](https://leetcode.com/problems/reverse-linked-list/)                                   | Easy       | Reverse Linked List                                  |                                                                 |
