@@ -41,3 +41,4 @@
 | [206](https://leetcode.com/problems/reverse-linked-list/)                                   | Easy       | Reverse Linked List                                  |                                                                 |
 | [203](https://leetcode.com/problems/remove-linked-list-elements/)                           | Easy       | Remove Linked List Elements                          |                                                                 |
 | [328](https://leetcode.com/problems/odd-even-linked-list/)                                  | Medium     | Odd Even Linked List                                 |                                                                 |
+| [234](https://leetcode.com/problems/palindrome-linked-list/)                                | Easy       | Palindrome Linked List                               | Think about two pointers 🔁                                      |
