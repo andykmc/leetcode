@@ -43,3 +43,5 @@
 | [328](https://leetcode.com/problems/odd-even-linked-list/)                                  | Medium     | Odd Even Linked List                                 |                                                                 |
 | [234](https://leetcode.com/problems/palindrome-linked-list/)                                | Easy       | Palindrome Linked List                               | Think about two pointers 🔁                                      |
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/)                                 | Easy       | Merge Two Sorted Lists                               |                                                                 |
+| [50](https://leetcode.com/problems/powx-n/)                                                 | Medium     | Pow(x, n)                                            |
+| Think abt the nature of Exponentiation                                                      |
